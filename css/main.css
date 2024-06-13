@@ -22,10 +22,6 @@
   font-family: 'Larsseit';
   src: url("../webfonts/32162C_5_0.eot");
   src: url("../webfonts/32162C_5_0.eot?") format("embedded-opentype"), url("../webfonts/32162C_5_0.woff2") format("woff2"), url("../webfonts/32162C_5_0.woff") format("woff"), url("../webfonts/32162C_5_0.ttf") format("truetype"); }
-@font-face {
-  font-family: 'Noe Medium';
-  src: url("../webfonts/neo-medium.eot");
-  src: url("../webfonts/neo-medium.eot?") format("embedded-opentype"), url("../webfonts/neo-medium.woff") format("woff"); }
 .full-size {
   width: 100%;
   height: 100%; }
